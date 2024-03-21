@@ -9,3 +9,7 @@
 #comBeelessonRStat.R
 ## Intro lesson to some basic RStats with website links commented in
 ## Written for comBEE R meetings at University of Wisconsin - Madison
+
+#Testing.Rmd
+## HTML formatted RMarkdown file
+## Written to use as reference for how to create a RMD file as well as different ways of interacting with data in Rstudio
