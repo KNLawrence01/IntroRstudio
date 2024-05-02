@@ -14,7 +14,7 @@
 ## HTML formatted RMarkdown file
 ## Written to use as reference for how to create a RMD file as well as different ways of interacting with data in Rstudio
 
-#Testing_PDF.Rmd
+#Testing_pdf.Rmd
 ## PDF formatted RMarkdown file
 ## Rewritten verison of Testing.Rmd to print pdf instead of html
 
