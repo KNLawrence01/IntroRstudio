@@ -1,6 +1,6 @@
 # author: Kadee Lawrence
 # email: knlawrence@wisc.edu
-# date: 2023_08_23
+# date: 2024_05_02
 # README.txt
 
 #Lessons based in RStudio 
